@@ -3,3 +3,15 @@
 *.jpeg filter=lfs diff=lfs merge=lfs -text
 *.svg filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
+asesoria.html filter=lfs diff=lfs merge=lfs -text
+contratos.html filter=lfs diff=lfs merge=lfs -text
+correcion-actas.html filter=lfs diff=lfs merge=lfs -text
+divorcios.html filter=lfs diff=lfs merge=lfs -text
+guardaycustodia.html filter=lfs diff=lfs merge=lfs -text
+index.html filter=lfs diff=lfs merge=lfs -text
+nosotros.html filter=lfs diff=lfs merge=lfs -text
+penciones-imss.html filter=lfs diff=lfs merge=lfs -text
+penciones.html filter=lfs diff=lfs merge=lfs -text
+registro.html filter=lfs diff=lfs merge=lfs -text
+servicios-adicionales.html filter=lfs diff=lfs merge=lfs -text
+servicios.html filter=lfs diff=lfs merge=lfs -text
